@@ -1,0 +1,30 @@
+.app {
+  text-align: center; }
+  .app-logo {
+    animation: app-logo-spin infinite 20s linear;
+    width: 200px;
+    height: 200px; }
+  .app-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    background-color: #61dafb;
+    color: #282c34; }
+  .app-link {
+    color: #61dafb; }
+
+.main-action {
+  display: flex;
+  justify-content: space-between;
+  color: #ffff;
+  padding: 10px 0; }
+
+@keyframes app-logo-spin {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
+
+/*# sourceMappingURL=App.css.map */

@@ -1,0 +1,9 @@
+.article-list {
+  padding: 0; }
+  .article-list__li {
+    list-style: none;
+    margin-bottom: 10px; }
+    .article-list__li:last-child {
+      margin-bottom: 0; }
+
+/*# sourceMappingURL=ArticleList.css.map */

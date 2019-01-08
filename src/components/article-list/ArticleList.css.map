@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,aAAc;EACZ,OAAO,EAAE,CAAC;EAEV,iBAAM;IACJ,UAAU,EAAE,IAAI;IAChB,aAAa,EAAE,IAAI;IACnB,4BAAa;MACX,aAAa,EAAE,CAAC",
+"sources": ["ArticleList.scss"],
+"names": [],
+"file": "ArticleList.css"
+}
