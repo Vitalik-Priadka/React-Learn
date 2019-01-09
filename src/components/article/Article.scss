@@ -1,0 +1,9 @@
+@import "../../assets/base-css/theme";
+
+.card {
+  &-header {
+    justify-content: space-between;
+    display: flex;
+  }
+}
+

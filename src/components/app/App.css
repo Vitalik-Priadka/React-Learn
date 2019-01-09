@@ -20,6 +20,10 @@
   justify-content: space-between;
   color: #ffff;
   padding: 10px 0; }
+  .main-action__buttons > * {
+    margin-right: 10px; }
+    .main-action__buttons > *:last-child {
+      margin-right: 0; }
 
 @keyframes app-logo-spin {
   from {
